@@ -1,0 +1,4 @@
+﻿  use.cpp
+c:\users\alice\source\repos\zadanie4.3\use.cpp(7): error C2660: "print_foo": funkcja nie przyjmuje 1 argumentów
+  my.cpp
+  Generowanie kodu...

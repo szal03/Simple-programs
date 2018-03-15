@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\źródło.cpp(127): warning C4715: "get_value”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\źródło.cpp(97): warning C4715: "Token_stream::get”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\źródło.cpp(206): warning C4715: "primary”: niewszystkie ścieżki kodu zwracają wartość
+  Project3 - zadanie1.3 od poczatku.vcxproj -> C:\Users\Alice\source\repos\Project3 - zadanie1.3 od poczatku\x64\Debug\Project3 - zadanie1.3 od poczatku.exe

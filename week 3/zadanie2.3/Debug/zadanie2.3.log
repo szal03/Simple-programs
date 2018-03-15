@@ -1,0 +1,8 @@
+﻿  zad2.3.cpp
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(124): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(131): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(142): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(127): warning C4715: "get_value”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(97): warning C4715: "Token_stream::get”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\alice\source\repos\zadanie2.3\zad2.3.cpp(206): warning C4715: "primary”: niewszystkie ścieżki kodu zwracają wartość
+  zadanie2.3.vcxproj -> C:\Users\Alice\source\repos\zadanie2.3\Debug\zadanie2.3.exe

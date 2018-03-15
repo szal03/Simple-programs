@@ -1,0 +1,6 @@
+﻿  zad.1.3
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\zad.1.3(124): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\zad.1.3(131): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\zad.1.3(142): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\zad.1.3(187): error C2360: Inicjalizacja "d" jest pomijana przy etykiecie "case"
+  c:\users\alice\source\repos\project3 - zadanie1.3 od poczatku\zad.1.3(182): note: zobacz deklarację „d”

@@ -1,0 +1,4 @@
+﻿  zad5.3.cpp
+c:\users\alice\source\repos\zadanie5.3\zad5.3.cpp(8): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\zadanie5.3\zad5.3.cpp(12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  zadanie5.3.vcxproj -> C:\Users\Alice\source\repos\zadanie5.3\Debug\zadanie5.3.exe
