@@ -1,0 +1,3 @@
+﻿  zad8.4.cpp
+c:\users\alice\source\repos\zadanie8.4\zad8.4.cpp(23): warning C4715: "operator<<”: niewszystkie ścieżki kodu zwracają wartość
+  zadanie8.4.vcxproj -> C:\Users\Alice\source\repos\zadanie8.4\Debug\zadanie8.4.exe
